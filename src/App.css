@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+.itemsNav {
+  display: flex;
+  list-style: none;
+  gap: 50px;
+  font-family: fantasy;
+  font-size: 1.2rem;
+  padding: 50px;
+}
+.logo {
+  width: 180px;
+  height: auto;
+}
+
+/* aca le doy estilos a el h1 de ItemListContainer */
+.itemList {
+  color: red;
+}
