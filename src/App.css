@@ -1,55 +1,84 @@
+body {
+  background-color: #000000;
+  
+}
+.titulo{
+  color: rgb(238, 254, 0);
+}
+
+
+.contain-Master{
+  display: flex;
+  background-color: rgb(45, 45, 45);
+}
+.card-Container {
+  
+  
+ background-color: rgba(75, 75, 75, 0.614);
+ place-items: center;
+  width: 1920px;
+  height: auto;
+padding: 200px;
+  display: grid;
+  grid-template-rows: repeat(auto-fit, 1fr);
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+
+}
 .App {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: auto;
+ 
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
+.itemsNav {
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
-.itemsNav {
-  display: flex;
-  list-style: none;
+ list-style: none;
   gap: 50px;
   font-family: fantasy;
   font-size: 1.2rem;
   padding: 50px;
+}
+
+.itemsNav a{
+  color: rgb(255, 255, 255);
+  text-decoration: none;
 }
 .logo {
   width: 180px;
   height: auto;
 }
 
-/* aca le doy estilos a el h1 de ItemListContainer */
-.itemList {
-  color: red;
+
+
+
+.loader-Container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.loader{
+  border: 4px solid rgba(0, 0, 0, 0.3);
+  border-top: 4px solid #ffffff;  
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+
+.h2-Carrito{
+ 
+  color: aqua;
 }

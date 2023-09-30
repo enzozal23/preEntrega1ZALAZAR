@@ -1,0 +1,181 @@
+[
+  {
+    "id":  1,
+    "titulo": "remera bobber hecha a mano",
+    "imagen": "https://cdnm.sanmar.com/imglib/mresjpg/2019/f13/64000_black_flat_front.jpg",
+    "categoria": {
+      "nombre": "remera",
+      "id": "remeras"
+    },
+    "precio": 13000
+  },
+  {
+    "id":  2,
+    "titulo": "remera overzise",
+    "imagen": "https://th.bing.com/th/id/OIP.GxuS5cHA1f2di-_y11daFwHaJQ?pid=ImgDet&rs=1",
+    "categoria": {
+      "nombre": "remera",
+      "id": "remeras"
+    },
+    "precio": 14500
+  },
+  {
+    "id":  3,
+    "titulo": "remera batik infectada",
+    "imagen": "https://th.bing.com/th/id/R.63a62b9fe247c6d6e4788d534f9d827f?rik=bygVdUNg2yD09w&pid=ImgRaw&r=0",
+    "categoria": {
+      "nombre": "remera",
+      "id": "remeras"
+    },
+    "precio": 22300
+  },
+  {
+    "id":  4 ,
+    "titulo": "remera lisas multicolor",
+    "imagen": "https://i1.wp.com/www.tiendam45.com/wp-content/uploads/2017/01/remeras-manga-corta-lisas-1ra-calidad-algodon-peinado-241-D_NQ_NP_331515-MLA25264997508_012017-O.jpg?fit=405%2C500&ssl=1",
+    "categoria": {
+      "nombre": "remera",
+      "id": "remeras"
+    },
+    "precio": 18599
+  },
+  {
+    "id": 5,
+    "titulo": "remera fut kongo",
+    "imagen": "https://th.bing.com/th/id/R.c17cf6ede3dff4e126ab59f0dab98ae4?rik=hthxtlhQvNqdNQ&pid=ImgRaw&r=0",
+    "categoria": {
+      "nombre": "remera",
+      "id": "remeras"
+    },
+    "precio": 19000
+  },
+  {
+    "id": 6,
+    "titulo": "remera king of kongo",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_755288-MLA49330698166_032022-W.jpg",
+    "categoria": {
+      "nombre": "remera",
+      "id": "remeras"
+    }
+  },
+   {
+    "id": 7,
+    "titulo":"campera inflable",
+    "imagen":"https://topperarg.vtexassets.com/arquivos/ids/300230-800-800?width=800&height=800&aspect=true",
+    "categoria": {
+      "nombre": "campera",
+      "id": "camperas"
+    },
+    "precio": 23000
+  },
+  {
+    "id": 8 ,
+    "titulo": "campera nike",
+    "imagen": "https://th.bing.com/th/id/R.208575eae3621d4ccf4ccdf4cd4531a7?rik=4ZJ8z6gQn6J%2fCw&pid=ImgRaw&r=0",
+    "categoria": {
+      "nombre": "campera",
+      "id": "camperas"
+    },
+    "precio": 40000
+  },
+  {
+    "id":  9 ,
+    "titulo": "campera cuero king of kongo",
+    "imagen":"https://th.bing.com/th/id/OIP.KFLvQkJMu4rgfufO8Y8FTgHaJQ?pid=ImgDet&w=819&h=1024&rs=1",
+    "categoria": {
+      "nombre": "campera",
+      "id": "camperas"
+    },
+    "precio": 110000
+  },
+  {
+    "id":  10 ,
+    "titulo": "campera parka verde ",
+    "imagen":" https://th.bing.com/th/id/OIP.5kU09UexYNMO8-JKINg9TwHaHa?pid=ImgDet&rs=1",
+    "categoria": {
+      "nombre": "campera",
+      "id": "camperas"
+    },
+    "precio": 63000
+  },
+  {
+    "id":  11,
+    "titulo": "campera de jean mistral",
+    "imagen":" https://th.bing.com/th/id/OIP.VsioWuSiRAqt-Y8Lh5WOAQHaKA?pid=ImgDet&rs=1",
+    "categoria": {
+      "nombre": "campera",
+      "id": "camperas"
+    },
+    "precio": 38000
+  },
+  {
+    "id": 12,
+    "titulo": "campera inflable lacoste",
+    "imagen":" https://th.bing.com/th/id/OIP.RAYSpUljF5VpWhCEmQ-q4gHaHa?pid=ImgDet&w=915&h=915&rs=1",
+    "categoria": {
+      "nombre": "campera",
+      "id": "camperas"
+    },
+    "precio": 55000
+  },
+  {
+    "id":  13,
+    "titulo": "jeans negro roto",
+    "imagen": "https://http2.mlstatic.com/jeans-rotos-gris-slim-hombre-romana-D_NQ_NP_901291-MLA28512922620_102018-F.jpg",
+    "categoria": {
+      "nombre": "jean",
+      "id": "jeans"
+    },
+    "precio": 18000
+  },
+  {
+    "id":  14,
+    "titulo": "jeans negro",
+    "imagen": "https://th.bing.com/th/id/OIP.YLX2DgOYsTtbq0ikXcYz0AHaLH?pid=ImgDet&rs=1",
+    "categoria": {
+      "nombre": "jean",
+      "id": "jeans"
+    },
+    "precio": 13000
+  },
+  {
+    "id":  15  ,
+    "titulo": "jeans roto white",
+    "imagen": "https://th.bing.com/th/id/R.226a371f06613dfde1debbb340648bec?rik=J%2bZwDzTqLEAsiQ&pid=ImgRaw&r=0",
+    "categoria": {
+      "nombre": "jean",
+      "id": "jeans"
+    },
+    "precio": 19000
+  },
+  {
+    "id": 16  ,
+    "titulo": "jeans clasico azul",
+    "imagen": "https://th.bing.com/th/id/OIP.Grg4zNYd_4hHBJ-JG4sVYwHaLH?pid=ImgDet&rs=1",
+    "categoria": {
+      "nombre": "jean",
+      "id": "jeans"
+    },
+    "precio": 20500
+  },
+  {
+    "id":  17 ,
+    "titulo": "jeans suelto roto",
+    "imagen": "https://www.dhresource.com/0x0/f2/albu/g8/M01/E4/00/rBVaV1yxhCqAE3LfAAKETBZp8sQ358.jpg",
+    "categoria": {
+      "nombre": "jean",
+      "id": "jeans"
+    },
+    "precio": 17690
+  },
+  {
+    "id":  18,
+    "titulo": "jeans gris",
+    "imagen": "https://th.bing.com/th/id/OIP.P_4sGFRiRwKbCvn3qAcxywHaHa?pid=ImgDet&w=2100&h=2100&rs=1",
+    "categoria": {
+      "nombre": "jean",
+      "id": "jeans"
+    },
+    "precio": 19000
+  }
+]
