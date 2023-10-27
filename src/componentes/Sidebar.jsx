@@ -8,15 +8,15 @@ function Sidebar() {
             <section className='sidebar-Container'>
                 <div className='sidebar'>
                     <ul className="itemsNav">
-                        <li><Link to="/productos">todos</Link></li>
+                        <li><Link to="/productos"><button>todos</button></Link></li>
                         <li>
-                            <Link to="/productos/remeras" >remeras</Link>
+                            <Link to="/productos/remeras" ><button>remeras</button></Link>
                         </li>
                         <li>
-                            <Link to="/productos/camperas" >camperas</Link>
+                            <Link to="/productos/camperas" ><button>camperas</button></Link>
                         </li>
                         <li>
-                            <Link to="/productos/jeans">jeans</Link>
+                            <Link to="/productos/jeans"><button>jeans</button></Link>
                         </li>
 
                     </ul></div>
